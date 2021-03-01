@@ -1,0 +1,5 @@
+INSERT INTO game(id,category,description,name,publisher,year)
+VALUES
+   (1,"family","nice game","piraci z karaibow","Marcin Z",1996),
+   (2,adult game,piraci z karaibow2,Jan),
+   (3,children game, Asterix i obelix, Marcin Z);
